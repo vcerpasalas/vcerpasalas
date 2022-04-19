@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Valeria Cerpa</h1>
 <h3 align="center">Full Stack student from Peru</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vcerpasalas" alt="vcerpasalas" /></a> </p>
-
 ## &#x1f4c8; GitHub Stats
 <div align="center">
   <a href="https://github.com/vcerpasalas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcerpasalas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcerpasalas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+  
+<div align="center">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vcerpasalas" alt="vcerpasalas" /></a> </p>
+</div>
+  
 - 🔭 I’m currently working on **Python projects**
 
 - 🌱 I’m currently learning **frameworks, programming courses**
