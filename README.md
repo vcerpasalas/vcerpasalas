@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [Resume](c)
 
-- ⚡ Fun fact **I am a huge fan of old Latin American music**
+- ⚡ Fun fact **Huge fan of old Latin American music**
   
 ## Connect with me
 <p align="left">
