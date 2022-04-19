@@ -13,19 +13,19 @@
   
 ## About me  
   
-- 🔭 I’m currently working on **Pyhton projects**
+- 🔭 I’m currently working on **Python web projects**
 
-- 🌱 I’m currently learning **frameworks, courses**
+- 🌱 I’m currently learning **frameworks, programming and data courses**
 
-- 👯 I’m looking to collaborate on **Front end projects**
+- 👯 I’m looking to collaborate on **Front end & data projects**
 
-- 👨‍💻 All of my projects are available at [a](a)
+- 👨‍💻 All of my projects are available at [Portfolio](a)
 
 - 📝 I regularly write articles on [b](b)
 
-- 📫 How to reach me **vcerpasalas@gmail.com**
+- 📫 How to reach me? **vcerpasalas@gmail.com**
 
-- 📄 Know about my experiences [c](c)
+- 📄 Know about my experiences [Resume](c)
 
 - ⚡ Fun fact **I am a huge fan of old Latin American music**
   
