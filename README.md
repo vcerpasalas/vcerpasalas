@@ -29,14 +29,6 @@
 
 - ⚡ Fun fact **huge fan of old Latin American music**
   
-<!-- Snake contributions graph https://github.com/Platane/snk -->
-<div align="center">
-  <a href="https://github.com/vcerpasalas#user-activity-overview">
-    <img src="https://github.com/vcerpasalas/vcerpasalas/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
-  </a>
-  <br>
-</div>
-  
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/val_cerpasalas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="val_cerpasalas" height="30" width="40" /></a>
