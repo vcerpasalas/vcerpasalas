@@ -13,11 +13,11 @@
   
 ## About me  
   
-- 🔭 I’m currently working on **Python web projects**
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning **frameworks, programming and data courses**
 
-- 👯 I’m looking to collaborate on **Front end & data projects**
+- 👯 I’m looking to collaborate on **Front end & software engineering projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](a)
 
