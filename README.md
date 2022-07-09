@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeria Cerpa</h1>
-<h3 align="center">Full Stack student from Peru</h3>
+<h3 align="center">Full Stack and software engineer from Peru</h3>
 
 ## &#x1f4c8; GitHub Stats
 <div align="center">
