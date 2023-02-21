@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valeria Cerpa</h1>
-<h3 align="center">Architect and future software engineer from Peru</h3>
+<h3 align="center">Architect and aspiring software engineer from Peru</h3>
 
 ## My statistics 🏅
 ![Valeria’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vcerpasalas&theme=omni&show_icons=true)
