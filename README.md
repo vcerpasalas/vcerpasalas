@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **frameworks, programming and data courses**
+- 🌱 I’m currently learning **data structures and algorithms**
 
 - 👯 I’m looking to collaborate on **Front end & software engineering projects**
 
