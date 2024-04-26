@@ -9,9 +9,9 @@
   
 ## About me  
   
-- 🔭 I’m currently working on **Cybersecurity Essentials Course (Cisco)**
+- 🔭 I’m currently working on **Local Actions Fellowship**
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently learning **Cybersecurity Essentials Certification (Cisco)**
 
 - 👯 I’m looking to collaborate on **Front end & software engineering projects**
 
