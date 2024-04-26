@@ -9,7 +9,7 @@
   
 ## About me  
   
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Cybersecurity Essentials Course (Cisco)**
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
