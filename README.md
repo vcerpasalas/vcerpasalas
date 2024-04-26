@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on **Local Actions Fellowship**
 
-- 🌱 I’m currently learning **Cybersecurity Essentials Certification (Cisco)**
+- 🌱 I’m currently learning **Cybersecurity Essentials Certification (Cisco) & Green Software for Practitioners (LFC131)**
 
 - 👯 I’m looking to collaborate on **Front end & software engineering projects**
 
